@@ -1,16 +1,14 @@
 # Connect Message
 
 ## Описание
-Плагин на случайные приветствия зашедших игроков.
+Плагин выводит в чат случайные приветственные сообщения при заходе игрока.
 
 ## Требования
 AmxModX 1.9.0 или выше
 
 ## Настройка
 ### Текст сообщений
-`amxmodx/configs/plugins/ConnectMessage/Messages.json`
-
-#### Структура
+`amxmodx/configs/plugins/ConnectMessage/Messages.json`:
 ```json
 [
     "%%Name%% зашёл на севрер",
